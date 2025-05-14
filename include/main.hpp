@@ -1,6 +1,3 @@
-#ifndef MAIN_HPP_
-#define MAIN_HPP_
+#pragma once
 
 #include <opencv4/opencv2/opencv.hpp>
-
-#endif
